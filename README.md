@@ -1,16 +1,14 @@
-### Hi there 👋
+#Taylor B. Kyle
+##Designer & Developer
+###About Me:
+**My name is Taylor and I am a developer located in Northern, CA.**
+I am a student at Arizona State University. In 2022 I will obtain my Bachelor of Science in Graphic Information Technology with a primary focus on Web Design and Development. I started learning to code in May of 2020 and founded *#WeeklyCodingGoals* on [Twitter](https://twitter.com/HTMLmom/).
 
-<!--
-**tayk-dev/tayk-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###Skills:
+* HTML
+* CSS
+* JavaScript
+* Java
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+####Contact:
+The best way to reach me is to contact me through my [website](https://www.tayk.dev/) 💬
