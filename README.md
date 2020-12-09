@@ -11,4 +11,4 @@ I am a student at Arizona State University. In 2022 I will obtain my Bachelor of
 * Java
 
 #### Contact:
-The best way to reach me is to contact me through my [website](https://www.tayk.dev/).
+The best way to reach me is to contact me through my [website](https://www.tayk.dev/_blank).
