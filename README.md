@@ -1,14 +1,13 @@
-# Tay Kyle
+# Taylor (Tay) Kyle
 ## Designer & Developer
 ### About Me:
-**My name is Tay and I am a designer/developer located in Northern, CA.**
-I started learning to code in May of 2020 and founded *#WeeklyCodingGoals* on [Twitter](https://www.twitter.com/taykcreative/). 
+**My name is Taylor and I am a designer/developer located in Sweet Home Alabama.**
 
-### Skills:
+### Development Skills:
 * HTML
 * CSS
 * JavaScript
 * Java
 
-#### Contact:
-The best way to reach me is to contact me through my [website](https://www.taykcreative.com/).
+### Design Skills:
+You can find my design portfolio on my [Behance](https://www.behance.net/tbkyle)
