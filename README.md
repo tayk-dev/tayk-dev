@@ -1,7 +1,7 @@
 # Taylor (Tay) Kyle
 ## Designer & Developer
 ### About Me:
-**My name is Taylor and I am a designer/developer located in Sweet Home Alabama.**
+**My name is Taylor and I am a developer located in northern Alabama.**
 
 ### Development Skills:
 * HTML
@@ -9,5 +9,5 @@
 * JavaScript
 * Java
 
-### Design Skills:
-You can find my design portfolio on my [Behance](https://www.behance.net/tbkyle)
+### Currently Learning:
+* Python
