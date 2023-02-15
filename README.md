@@ -1,5 +1,5 @@
-# Taylor (Tay) Kyle
-## Designer & Developer
+# Tay Kyle
+## Developer
 ### About Me:
 **My name is Taylor and I am a developer located in northern Alabama.**
 
