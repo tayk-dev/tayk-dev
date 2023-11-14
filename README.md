@@ -1,7 +1,7 @@
-# Tay Kyle
+# Taylor Kyle
 ## Developer
 ### About Me:
-**My name is Taylor and I am a developer located in northern Alabama.**
+**My name is Taylor and I am an American developer located in the south.**
 
 ### Development Skills:
 * HTML
@@ -10,4 +10,4 @@
 * Java
 
 ### Currently Learning:
-* Python
+* How to make better life decisions.
